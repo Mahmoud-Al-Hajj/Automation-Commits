@@ -7,4 +7,4 @@ sd
 asd
 as
 dasd
-  
+  added a new message which describes the project in the Readme
