@@ -15,3 +15,4 @@ I want this to be well written and alL: {
 👤 Committed by: {{1.commit.author.name}}
 "
 }
+""You are a professional technical writer. Summarize Git commits concisely in one sentence, highlighting technical impact."
