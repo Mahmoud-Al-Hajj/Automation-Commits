@@ -10,3 +10,8 @@ dasd
   added a new message which describes the project in the Readme
   added a new message which describes the project in the Readme
   added a new message which describes the project in the Readme
+I want this to be well written and alL: {
+  "content": "📝 Commit Summary: \n {{15.choices[].message.content}}
+👤 Committed by: {{1.commit.author.name}}
+"
+}
